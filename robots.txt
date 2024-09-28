@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://patepecanu.github.io/sitemap/sitemap_index.txt.gz
